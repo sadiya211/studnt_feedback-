@@ -1,4 +1,4 @@
-# College Event Feedback Analysis
+# STUDENT Feedback Analysis
 
 ## 📊 Overview
 This project analyzes student feedback from college events — including **TechFest, Workshops, Seminars, and Cultural Programs** — using Python, pandas, and NLP techniques.  
